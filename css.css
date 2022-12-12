@@ -1,0 +1,232 @@
+hr {
+    border-style: none;
+    border-top: 15px dotted #E87a56;
+    height: 7px;
+    width: 80px;
+  }
+  
+  body {
+    margin: 0px 0px 0px 0px;
+    background-color: #ffffff;
+    text-align: center;
+  }
+  
+  
+  h2,h3 {
+    color: #AE431E;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 2em;
+  }
+  
+  li {
+    width: 30%;
+  }
+  
+  tr {
+    text-align: center;
+  }
+  
+  
+  ul,ol {
+    margin-left: 40%;
+    font-family: "Papyrus", Times, serif;
+  }
+  
+  a{
+    color: #a52b03;
+    font-family: "Papyrus", Times, serif;
+    text-decoration: none;
+    margin: 10px 20px;
+  }
+  
+  a:hover {
+    color: White;
+  }
+  
+  table {
+    margin-left: 45%;
+  }
+  
+  p {
+    line-height: 2;
+    font-family: "Papyrus", Times, serif;
+  }
+  
+  
+  .what {
+    text-decoration: underline;
+    color: black;
+  }
+  
+  .max-lis {
+    width: 40%;
+  }
+  
+  .nube1 {
+    width: 200px;
+    position: relative;
+    bottom: 90px;
+    right: 600px;
+  }
+  
+  .nube2 {
+    position: relative;
+    width: 100px;
+    bottom: -230px;
+    right: 500px;
+  }
+  
+  .nube3 {
+    position: relative;
+    bottom: 40px;
+    left: 400px;
+  }
+  
+  .nube4 {
+    position: relative;
+    bottom: 290px;
+    left: 500px;
+  }
+  
+  .nube5 {
+    position: relative;
+    bottom: 55px;
+    right: 450px;
+  }
+  
+  .nube6 {
+    position: relative;
+    top: 200px;
+    left: 600px;
+  }
+  
+  
+  .chloe-lis {
+    width: 40%;
+  }
+  
+  .top-container{
+    height: 80%;
+    background-image: url("https://cdnb.artstation.com/p/assets/images/images/004/750/869/large/isaac-liew-s2-b-web.jpg?1485984131");
+    background-size: 100%;
+    position: relative;
+    padding-top: 100px;
+  }
+  
+  .middle-container {  
+    height: 40%;
+  }
+  
+  .lis-title {
+    bottom: 70px;
+    position: relative;
+    left: 13%;
+    width: 400px;
+  }
+  
+  
+  .Hi {
+    text-decoration: underline;
+  }
+  
+  
+  .lis-fan{
+    position: relative;
+    width: 250px;
+    right: 430px;
+    bottom: 240px;
+  }
+  
+  .lis-cartoon {
+    position: relative;
+    width: 250px;
+    left: 530px;
+    top: -140px;
+  
+  }
+  
+  .importance-lis {
+  height: 190px;
+  }
+  
+  
+  
+  .camera {
+    position: relative;
+    width: 250px;
+    left: 130px;
+    top: -60px;
+    width: 70px;
+  }
+  
+  .mountain {
+    position: absolute;
+    top: 1300px;
+    width: 00px;
+    opacity: 10%;
+    right: 500px;
+  }
+  
+  .forest {
+    position: relative;
+    width: 250px;
+    left: 490px;
+    top: -95px;
+    width: 70px;
+  }
+  
+  .lis-true-colors {
+    position: relative;
+    width: 250px;
+    right: 650px;
+    bottom: 200px;
+  }
+  
+  .Important-characters {
+    height: 70%;
+  }
+  
+  .contact-message {
+    width: 30%;
+    margin: 40px auto 60px;
+  }
+  
+  .btn {
+    background: #a83d19;
+    background-image: -webkit-linear-gradient(top, #a83d19, #e87a56);
+    background-image: -moz-linear-gradient(top, #a83d19, #e87a56);
+    background-image: -ms-linear-gradient(top, #a83d19, #e87a56);
+    background-image: -o-linear-gradient(top, #a83d19, #e87a56);
+    background-image: linear-gradient(to bottom, #a83d19, #e87a56);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    text-shadow: 1px 0px 4px #ffffff;
+    font-family: 'Brush Script MT', cursive;
+    color: #EEF1FF;
+    font-size: 16px;
+    padding: 9px 20px 10px 20px;
+    border: solid #ffffff 6px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3c5ffc;
+    background-image: -webkit-linear-gradient(top, #3c5ffc, #3498db);
+    background-image: -moz-linear-gradient(top, #3c5ffc, #3498db);
+    background-image: -ms-linear-gradient(top, #3c5ffc, #3498db);
+    background-image: -o-linear-gradient(top, #3c5ffc, #3498db);
+    background-image: linear-gradient(to bottom, #3c5ffc, #3498db);
+    text-decoration: none;
+  }
+  
+  .bottom-container {
+    background-image: url("https://cdnb.artstation.com/p/assets/images/images/004/750/869/large/isaac-liew-s2-b-web.jpg?1485984131");
+    background-size: 100%;
+    padding: 50px 0 40px;
+  }
+  
+  .copyright {
+    font-size: 10px;
+    color: white;
+  }
